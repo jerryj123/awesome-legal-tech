@@ -396,6 +396,7 @@ Tools for patent search, trademark monitoring, IP portfolio management, prior ar
 | **[phpip](https://github.com/jjdejong/phpip)** | A web-based patent and IP rights portfolio manager and docketing system built on Laravel/PHP with features for document merging, renewal management, and patent database integration. | PHP, Laravel | 2026-03-02 |
 | <img src="https://flagcdn.com/w20/us.png" width="20" height="15" alt="US"> **[Patent MCP Server](https://github.com/riemannzeta/patent_mcp_server)** | FastMCP server providing AI assistants with access to USPTO patent data through multiple APIs including Patent Public Search, Open Data Portal, PTAB, PatentsView, and Office Action APIs. | Python | 2026-03-03 |
 | **[Patent Prompts](https://github.com/arcprime-ip/patent-prompts)** | Curated AI prompts for patent workflows including claim drafting, prior art analysis, and continuation strategy based on real USPTO practice, installable as agent skills. | | 2026-03-25 |
+| **[PatentSolve](https://patentsolve.com)** | AI platform for end-to-end US patent prosecution — drafting, proofreading, office action response, and examiner analytics — for patent attorneys, agents, and in-house IP teams. |  | 2026-05-04 |
 
 ## Privacy & Data Protection
 
